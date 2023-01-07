@@ -1,18 +1,20 @@
 ![MasterHead](https://www.aurecongroup.com/-/media/images/aurecon/content/expertise/digital-engineering-advisory/machine-learning/aurecon-machine-learning-large-banner.jpg?w=1170&h=417&as=1&crop=1)
 
-<h1 align="center">Hi 👋, I'm Atul Verma</h1>
+<h1 align="center">Hello 👋, I'm Atul Verma</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashzzz&label=Profile%20views&color=0e75b6&style=flat" alt="flashzzz" /> </p>
 
-<img align="right" alt="Machine Learning" width="400" src="https://media.istockphoto.com/id/1371766825/photo/big-data-network-abstract-concept.jpg?b=1&s=170667a&w=0&k=20&c=0C8TyRQTYkX-q_jm0pzc-MjZ7of_CcCisqPF4VMX_ug=">
+
 
 <p align="left"> <a href="https://twitter.com/__barryyyy" target="blank"><img src="https://img.shields.io/twitter/follow/__barryyyy?logo=twitter&style=for-the-badge" alt="__barryyyy" /></a> </p>
 
 
 
 - 🌱 I’m currently learning **Convolutional Neural Networks**
+
+<img align="right" alt="Machine Learning" width="400" src="https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif">
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
