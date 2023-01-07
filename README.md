@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/__barryyyy" target="blank"><img src="https://img.shields.io/twitter/follow/__barryyyy?logo=twitter&style=for-the-badge" alt="__barryyyy" /></a> </p>
 
+<img align="right" alt="Machine Learning" width="400" src="https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif">
 
 
 - 🌱 I’m currently learning **Convolutional Neural Networks**
 
-<img align="right" alt="Machine Learning" width="400" src="https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif">
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
