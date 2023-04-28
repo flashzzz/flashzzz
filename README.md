@@ -1,4 +1,4 @@
-![MasterHead](https://www.aurecongroup.com/-/media/images/aurecon/content/expertise/digital-engineering-advisory/machine-learning/aurecon-machine-learning-large-banner.jpg?w=1170&h=417&as=1&crop=1)
+![MasterHead](https://cdn.discordapp.com/attachments/960356320081485855/1101623476021886996/87178329.jpg)
 
 <h1 align="center">Hello, I'm Atul Verma :]</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
