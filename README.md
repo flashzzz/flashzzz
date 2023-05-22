@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **atul.auddy@gmail.com**
 
-- ⚡ Fun fact **I'm Spiderman**
+- ⚡ Fun fact **I'm the Flash**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
