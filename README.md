@@ -13,7 +13,7 @@
 <img align="right" alt="Machine Learning" width="400" src="https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif">
 
 
-- 🌱 I’m currently learning **Convolutional Neural Networks**
+- 🌱 I’m currently learning **Recurrent Neural Networks**
 
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
