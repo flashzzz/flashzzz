@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/960356320081485855/1101623476021886996/87178329.jpg)
+![MasterHead](https://media.tenor.com/t7_iTN0iYekAAAAd/sad-sad-cat.gif)
 
 <h1 align="center">Hello, I'm Atul Verma :]</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
@@ -11,7 +11,7 @@
 <img align="right" alt="Machine Learning" width="400" src="https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif">
 
 
-- 🌱 I’m currently learning **Recurrent Neural Networks**
+- 🌱 I’m currently learning **Transformer Architecture**
 
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
