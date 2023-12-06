@@ -4,11 +4,11 @@
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
 
-
+<img align="right" alt="Machine Learning" width="400" src="https://media.tenor.com/t7_iTN0iYekAAAAd/sad-sad-cat.gif">
 
 <p align="left"> <a href="https://twitter.com/__barryyyy" target="blank"><img src="https://img.shields.io/twitter/follow/__barryyyy?logo=twitter&style=for-the-badge" alt="__barryyyy" /></a> </p>
 
-<img align="right" alt="Machine Learning" width="400" src="https://media.tenor.com/t7_iTN0iYekAAAAd/sad-sad-cat.gif">
+
 
 
 - 🌱 I’m currently learning **Transformer Architecture**
