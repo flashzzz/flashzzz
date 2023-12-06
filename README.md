@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/t7_iTN0iYekAAAAd/sad-sad-cat.gif)
+![MasterHead](https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif)
 
 <h1 align="center">Hello, I'm Atul Verma :]</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/__barryyyy" target="blank"><img src="https://img.shields.io/twitter/follow/__barryyyy?logo=twitter&style=for-the-badge" alt="__barryyyy" /></a> </p>
 
-<img align="right" alt="Machine Learning" width="400" src="https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif">
+<img align="right" alt="Machine Learning" width="400" src="https://media.tenor.com/t7_iTN0iYekAAAAd/sad-sad-cat.gif">
 
 
 - 🌱 I’m currently learning **Transformer Architecture**
