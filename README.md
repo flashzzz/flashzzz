@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Transformer Architecture**
+- 🌱 I’m currently learning **Deployment of ML Apps**
 
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
