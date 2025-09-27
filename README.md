@@ -11,8 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Deployment of ML Apps**
-
+- 🌱 I’m currently learning gooooo
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
