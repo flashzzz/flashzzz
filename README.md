@@ -6,18 +6,15 @@
 
 <img align="right" alt="Machine Learning" width="400" src="https://media.tenor.com/t7_iTN0iYekAAAAd/sad-sad-cat.gif">
 
-<p align="left"> <a href="https://twitter.com/__barryyyy" target="blank"><img src="https://img.shields.io/twitter/follow/__barryyyy?logo=twitter&style=for-the-badge" alt="__barryyyy" /></a> </p>
 
 
+- learning gooooo
 
+- areas of intersts **Machine Learning and Deep Learning**
 
-- 🌱 I’m currently learning gooooo
+- reach me at **atul.auddy@gmail.com**
 
-- 💬 Ask me about **Machine Learning and Deep Learning**
-
-- 📫 How to reach me **atul.auddy@gmail.com**
-
-- ⚡ Fun fact **I'm the Flash**
+- i love motorcycles
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
