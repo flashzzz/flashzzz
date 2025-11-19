@@ -19,8 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/flashzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flashzzz" height="30" width="40" /></a>
-<a href="https://instagram.com/__barry_allen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__barry_allen" height="30" width="40" /></a>
 <a href="https://discord.gg/Ep27rcd3TS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14870346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14870346" height="30" width="40" /></a>
+<a href="https://medium.com/@atul.auddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atul.auddy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bodyshot_barryyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bodyshot_barryyyy" height="30" width="40" /></a>
+<a href="https://instagram.com/__barry_allen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__barry_allen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
