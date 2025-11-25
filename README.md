@@ -1,6 +1,6 @@
 ![MasterHead](https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif)
 
-<h1 align="center">Hello, I'm Atul Verma :]</h1>
+<h1 align="center">Hello :]</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
 
