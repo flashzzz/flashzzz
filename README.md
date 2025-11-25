@@ -1,7 +1,7 @@
 ![MasterHead](https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif)
 
 <h1 align="center">Hello :]</h1>
-<h3 align="center">An aspiring Machine Learning Engineer</h3>
+<!-- <h3 align="center">An aspiring Machine Learning Engineer</h3> -->
 
 
 <img align="right" alt="Machine Learning" width="400" src="https://media.tenor.com/t7_iTN0iYekAAAAd/sad-sad-cat.gif">
